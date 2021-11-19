@@ -59,4 +59,4 @@ Faites la commande associée au nom du système de protection pour l'activer !
 
 ## Licence
 Le bot est sous licence, si vous utilisez le code pour votre propre projet, merci d'indiquer des crédits quelque part.  
-Nous n'apportons en aucun cas aucune aide aux personnes souhaitants faire des clones du bot.
+Nous n'apportons en aucun cas aucune aide aux personnes souhaitants faire des clones du bot. (c'est faux tout le monde s'en blc)
